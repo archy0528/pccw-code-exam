@@ -128,7 +128,7 @@ console.log(greetMessage("Hello"));
 
 ```
 
-9. What is the last text will be display in the console?
+9. What text will be displayed last in the console?
 
 ```javascript
 function f1() {
